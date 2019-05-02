@@ -1,2 +1,2 @@
 # planetdp
-planetdp.org sitesinin kopyasıdır.Sitenin ###PHP MYSQL HTLM CSS JavaScript###
+planetdp.org sitesinin kopyasıdır.Sitede ***PHP MYSQL HTLM CSS JavaScript*** dillerini kullanarak şu anda üye kaydı, üye giriş-çıkış, beni hatırla işlemleri bulunuyor.Site yapım aşamasındadır.
